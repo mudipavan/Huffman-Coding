@@ -1,6 +1,6 @@
 # Huffman-Coding
 ## Aim
-To implement Huffman coding to compress the data using Python.
+To implement Huffman coding to compress the data using Python
 
 ## Software Required
 1. Anaconda - Python 3.7
